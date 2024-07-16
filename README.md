@@ -15,3 +15,23 @@ Teacher Analytics: Instructors can view detailed analytics on course sales.
 Completion Celebrations: Students are greeted with a fun confetti animation upon course completion, celebrating their achievements.
 
 Automatic Progress Tracking: Learners' progress is tracked automatically, making it easy to pick up right where they left off.
+
+
+# .env variables
+1. prisma :- DATABASE_URL
+
+## Upload thing
+1. UPLOADTHING_SECRET
+1. UPLOADTHING_APP_ID
+
+## Mux
+1. MUX_TOKEN_ID
+1. MUX_TOKEN_SECRET
+
+# Stripe API
+1. STRIPE_API_KEY
+1. STRIPE_WEBHOOK_SECRET
+
+
+NEXT_PUBLIC_APP_URL=http://localhost:3000
+
